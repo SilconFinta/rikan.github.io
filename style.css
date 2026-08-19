@@ -20,7 +20,7 @@ nav a {
 }
 
 .hero {
-  background: url('images/banner_o.png') center/cover no-repeat;
+  background: url('image/banner_o.png') center/cover no-repeat;
     height: 80vh; /* full screen */
   padding: 120px 20px;
   text-align: center;
